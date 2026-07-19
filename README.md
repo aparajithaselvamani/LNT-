@@ -1,1 +1,1 @@
-# LNT-
+This project presents an AI-driven quality inspection pipeline for packaged food production lines, integrating YOLOv8 object detection, MobileNetV2-based defect classification, and a rule-based decision engine for real-time packaging inspection. It automates the detection of bottle cap defects, maintains inspection traceability through structured logging, and delivers actionable production insights via an interactive Power BI dashboard to support quality assurance and operational decision-making.
